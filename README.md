@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Star</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<img src="https://gifer.com/embed/fxVE" width=480 height=480.000 frameBorder="0" >
+<img src="https://i.gifer.com/fxVE.gif" width=480 height=480.000 frameBorder="0" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=starhessen&label=Profile%20views&color=0e75b6&style=flat" alt="starhessen" /> </p>
 
