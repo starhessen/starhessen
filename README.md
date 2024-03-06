@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Star</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<img align="center" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif">
+<p align="center"> <img align="center" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif"/> </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=starhessen&label=Profile%20views&color=0e75b6&style=flat" alt="starhessen" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=starhessen&label=Profile%20views&color=0e75b6&style=flat" alt="starhessen" /> </p>
 
 - 🌱 I’m currently learning **React,Tailwind**
 
