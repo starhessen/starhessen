@@ -4,13 +4,13 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=starhessen&label=Profile%20views&color=0e75b6&style=flat" alt="starhessen" /> </p>
 
-<p align="center">- 🌱 I’m currently learning **React,Tailwind**</p>
+- 🌱 I’m currently learning **React,Tailwind**
 
-<p align="center">- 👨‍💻 All of my projects are available at [starhessen.online](starhessen.online)</p>
+- 👨‍💻 All of my projects are available at [starhessen.online](starhessen.online)
 
-<p align="center">- 📫 How to reach me **starrascho@gmail.com**</p>
+- 📫 How to reach me **starrascho@gmail.com**
 
-<p align="center">- ⚡ Fun fact **The Firefox logo isn't a fox It's actually a red panda.**</p>
+- ⚡ Fun fact **The Firefox logo isn't a fox It's actually a red panda.**
 
 
 <h3 align="center">Languages and Tools:</h3>
