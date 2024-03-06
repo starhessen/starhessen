@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React,Tailwind**
 
-- 👨‍💻 All of my projects are available at [starhessen.online]((https://starhessen.online/))
+- 👨‍💻 All of my projects are available at <a href="https://starhessen.online/" target="_blank" rel="noreferrer">[starhessen.online]</a> 
 
 - 📫 How to reach me **starrascho@gmail.com**
 
