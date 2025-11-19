@@ -5,11 +5,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=starhessen&label=Profile%20views&color=0e75b6&style=flat" alt="starhessen" /> </p>
 
-- 🌱 I’m currently learning **React,Tailwind**
+- 🌱 I’m currently learning **Computer Science Expert Subject Area: Software Development**
 
-- 👨‍💻 All of my projects are available at <a href="https://starhessen.online/" target="_blank" rel="noreferrer">starhessen.online</a> 
-
-- 📫 How to reach me **starrascho@gmail.com**
+- 📫 How to reach me **gitHub**
 
 - ⚡ Fun fact **The Firefox logo isn't a fox It's actually a red panda.**
 
